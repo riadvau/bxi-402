@@ -43,8 +43,8 @@ logo='''
 --------------------------------------------------
                                 '''
 
-CorrectUsername = 'binyamin'
-CorrectPassword = 'bxi'
+CorrectUsername = 'Riad Vau'
+CorrectPassword = '7402'
 
 loop = 'true'
 while (loop == 'true'):
