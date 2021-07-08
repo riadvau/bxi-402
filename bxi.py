@@ -35,10 +35,10 @@ logo='''
 
 --------------------------------------------------
 
- Auther   : Binyamin
- GitHub   : https://github.com/binyamin-binni
- YouTube  : Trick Proof
- Blogspot : https://trickproof.blogspot.com
+ Auther   : Riad Vau
+ GitHub   : https://github.com/riadvau/bxi-402
+ YouTube  : Rids Tuber
+ Blogspot : https://riadvau.blogspot.com/
 
 --------------------------------------------------
                                 '''
@@ -58,11 +58,11 @@ while (loop == 'true'):
             loop = 'false'
         else:
             print ' Wrong Password !'
-            os.system('xdg-open https://trickproof.blogspot.com/2020/02/new-killing-commands-of-termux-for.html')
+            os.system('xdg-open https://riadvau.blogspot.com')
             os.system('clear')
     else:
         print ' Wrong Username !'
-        os.system('xdg-open https://trickproof.blogspot.com/2020/02/new-killing-commands-of-termux-for.html')
+        os.system('xdg-open https://riadvau.blogspot.com')
         os.system('clear')
         
 def tik():
